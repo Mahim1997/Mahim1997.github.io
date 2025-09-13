@@ -1,6 +1,6 @@
 # Mahim.github.io
 
-GitHub personal website.
+GitHub personal website: https://mahim1997.github.io/
 
 ## Usage
 
